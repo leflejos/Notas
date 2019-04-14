@@ -14,3 +14,4 @@ lzop cabextract
 --Instalación de un visor pdf: Foxit reader pdf
 
 --sudo dpkg -i Descargas/nombrearchivo.deb
+--sudo apt -f install
