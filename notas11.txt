@@ -12,3 +12,5 @@ lzop cabextract
 --Instalación de reproductores de audio y vídeo: sudo apt install vlc sudo apt install audacious
 
 --Instalación de un visor pdf: Foxit reader pdf
+
+--sudo dpkg -i Descargas/nombrearchivo.deb
