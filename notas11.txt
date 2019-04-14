@@ -1,0 +1,14 @@
+--Actualización del sistema: sudo apt update sudo apt upgrade
+
+--Instalación por completo del idioma: Instalación de codecs multimedia: sudo apt install ubuntu-restricted-extras
+
+--Instalación de software de compresión de archivos sudo apt-get install rar unace p7zip p7zip-full p7zip-rar unrar lzip lhasa arj sharutils mpack lzma 
+lzop cabextract
+
+--Instalación de Gnome Tweak tool: sudo apt install gnome-tweak-tool
+
+--Instalación de chromium browser sudo apt install chromium-browser
+
+--Instalación de reproductores de audio y vídeo: sudo apt install vlc sudo apt install audacious
+
+--Instalación de un visor pdf: Foxit reader pdf
